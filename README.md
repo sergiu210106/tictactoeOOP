@@ -21,7 +21,7 @@ To compile the game, you'll need a C++ compiler (like g++).
 1.  **Navigate to the project root**:
 
     ```bash
-    cd /mnt/d/facultate/code/projects/tictactoeOOP
+    cd /tictactoeOOP
     ```
 
 2.  **Compile the source files**:
